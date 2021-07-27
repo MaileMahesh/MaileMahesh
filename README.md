@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MaileMahesh..
-- 👀 I’m interested in AI|ML|DS..
+- 👀 I’m interested in AI |ML |DS..
 - 🌱 I’m currently learning on ML|DS..
 - 💞️ I’m looking to collaborate on with Google...
 - 📫 How to reach me by mail: maheshmaile778@gmail.com  ...
